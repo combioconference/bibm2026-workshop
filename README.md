@@ -61,7 +61,7 @@ boundaries of computational biology through innovative tools and integrative ana
   <li><strong>Eric Lu Zhang</strong>, Department of Computer Science, Hong Kong Baptist University</li>
   <li><strong>Xiuwei Zhang</strong>, School of Computational Science and Engineering, Georgia Institute of Technology</li>
   <li><strong>Ying Ma</strong>, Biostatistics, Brown University</li>
-  <li><strong>Yunfei Hu</strong>, Department of Computer Science, Vanderbilt University</li>
+  <li><strong>Yunfei Hu</strong>, Department of Genetics, Washington University School of Medicine in St. Louis; Department of Computer Science, Vanderbilt University</li>
 </ul>
 
 <h1>Program Committee Members</h1>
