@@ -92,7 +92,7 @@ boundaries of computational biology through innovative tools and integrative ana
 
 <h1>Workshop Submission Requirement</h1>
 
-<p>Please submit a full-length paper (up to <font color="red">8 pages in IEEE 2-column format</font>) through the online submission system (you can download the format instruction <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">here</a>).
+<p>Please submit a full-length paper (up to <font color="red">8 pages in IEEE 2-column format</font>) through the online submission system <a href="https://www3.cs.stonybrook.edu/~bibm2026/" target="_blank">here</a>) (you can download the format instruction <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">here</a>).
 Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance.</p>
 
 <!-- # Workshop Online Submission:
